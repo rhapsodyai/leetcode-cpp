@@ -49,8 +49,8 @@ Constraints:
 /*
 Success
 Details
-Runtime: 4 ms, faster than 42.78% of C++ online submissions for Decrypt String from Alphabet to Integer Mapping.
-Memory Usage: 6.3 MB, less than 100.00% of C++ online submissions for Decrypt String from Alphabet to Integer Mapping.
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Decrypt String from Alphabet to Integer Mapping.
+Memory Usage: 6.5 MB, less than 100.00% of C++ online submissions for Decrypt String from Alphabet to Integer Mapping.
 */
 string freqAlphabets(string s) {
     unordered_map<string, char> m =
